@@ -1,0 +1,2 @@
+essa pasta tem as coisas do ruffle
+necessário pra flash/swfs
